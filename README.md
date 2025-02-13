@@ -31,7 +31,8 @@ This framework is optimized to be deployed on **ESP32** and other **low-power ed
 This project provides a **streamlined, efficient, and edge-compatible** vehicle detection framework, leveraging **YOLOv5 Nano** to enhance **traffic monitoring and management**.
 
 ## Sample Predictions --
-![float16](./floatpred.PNG)
- ***Realtime predictions***
+![float16](./floatpred.PNG)<br />
+<br />
+   **Realtime predictions**<br />
  ![realtime](./realtime.PNG)
 
