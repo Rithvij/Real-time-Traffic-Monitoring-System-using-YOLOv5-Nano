@@ -32,4 +32,6 @@ This project provides a **streamlined, efficient, and edge-compatible** vehicle 
 
 ## Sample Predictions --
 ![float16](./floatpred.PNG)
+ ***Realtime predictions***
+ ![realtime](./realtime.PNG)
 
