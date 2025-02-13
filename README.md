@@ -15,6 +15,8 @@ Vehicle detection is vital in **traffic management, planning**, and preventing *
 ## Tech Stack
 
 - **Model**: YOLOv5 Nano
+- **Programming Languages** : C, Embedded C, C++
+- **Firmware Development**: Low-level hardware interfacing for ESP32
 - **Optimization**: Structured pruning, post-integer quantization
 - **Deployment**: ESP32 and other edge devices
 
