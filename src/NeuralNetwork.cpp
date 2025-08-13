@@ -100,4 +100,5 @@ TfLiteStatus NeuralNetwork::predict()
 TfLiteTensor* NeuralNetwork::getOutput()
 {
     return output;
+
 }
